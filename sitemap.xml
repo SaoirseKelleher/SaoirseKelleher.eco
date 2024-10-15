@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>saoirsekelleher.eco/index.html</loc>
-    <lastmod>2024-10-15T08:16:10.670Z</lastmod>
+    <loc>saoirsekelleher.eco/CV.html</loc>
+    <lastmod>2024-10-15T08:18:48.619Z</lastmod>
   </url>
   <url>
     <loc>saoirsekelleher.eco/Research.html</loc>
     <lastmod>2024-10-15T08:10:04.768Z</lastmod>
+  </url>
+  <url>
+    <loc>saoirsekelleher.eco/index.html</loc>
+    <lastmod>2024-10-15T08:18:13.804Z</lastmod>
   </url>
 </urlset>

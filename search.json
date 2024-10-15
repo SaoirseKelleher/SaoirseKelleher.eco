@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Saoirse Kelleher Ecology",
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
     "section": "",
-    "text": "Personal website (test)"
+    "text": "Curriculum Vitae"
   },
   {
     "objectID": "Research.html",
@@ -12,5 +12,12 @@
     "title": "Research",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Personal website (test)"
   }
 ]
