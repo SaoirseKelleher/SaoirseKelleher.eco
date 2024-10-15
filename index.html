@@ -176,8 +176,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 <p>This is testing to see if i can push changes to Main.</p>
 <p>Testing a second time.</p>
-<p>check number 3</p>
-<p>test 4</p>
 
 
 
@@ -274,7 +272,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("saoirsekelleher\.eco");
+      var filterRegex = new RegExp("www\.saoirsekelleher\.eco");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
