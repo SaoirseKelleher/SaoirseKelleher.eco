@@ -1,11 +1,11 @@
 project:
   type: website
-  
-resources:
-  - CNAME
+  resources:
+    - CNAME
   
 website:
   title: "Saoirse Kelleher"
+  site-url: www.saoirsekelleher.eco
   navbar:
     left:
       - href: index.qmd
