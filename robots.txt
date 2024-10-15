@@ -1,1 +1,1 @@
-Sitemap: https://SaoirseKelleher.github.io/SaoirseKelleher.eco/sitemap.xml
+Sitemap: www.saoirsekelleher.eco/sitemap.xml
