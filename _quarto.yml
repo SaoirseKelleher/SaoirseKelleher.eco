@@ -5,16 +5,16 @@ project:
   
 website:
   title: "Saoirse Kelleher"
-  site-url: saoirsekelleher.eco
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Research.qmd
+      - CV.qmd
 
 format:
   html:
-    theme: minty
+    theme: flatly
     css: styles.css
     toc: true
 
