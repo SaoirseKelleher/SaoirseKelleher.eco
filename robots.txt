@@ -1,1 +1,1 @@
-Sitemap: www.saoirsekelleher.eco/sitemap.xml
+Sitemap: saoirsekelleher.eco/sitemap.xml
