@@ -5,7 +5,7 @@ project:
   
 website:
   title: "Saoirse Kelleher"
-  site-url: www.saoirsekelleher.eco
+  site-url: saoirsekelleher.eco
   navbar:
     left:
       - href: index.qmd
