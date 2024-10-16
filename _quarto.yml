@@ -5,12 +5,19 @@ project:
   
 website:
   title: "Saoirse Kelleher"
+  search: false
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: About.qmd
+        text: About
       - Research.qmd
       - CV.qmd
+    right:
+      - icon: github
+        href: https://github.com/SaoirseKelleher
+        aria-label: GitHub
 
 format:
   html:

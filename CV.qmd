@@ -1,5 +1,71 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 ---
 
-Curriculum Vitae
+### Summary
+
+Saoirse Kelleher is a PhD Candidate at the University of Melbourne with interests in quantitative ecology and biodiversity conservation.
+
+### Education
+
+**University of Melbourne** *2021-Present*
+
+-   PhD thesis titled 'Improving practical applications of dynamic occupancy models'
+
+**Colorado State University** *2015-2019*
+
+-   B.S. in Fish, Wildlife, and Conservation Biology
+
+-   B.S. in Biological Science
+
+-   Honours thesis titled 'Neocaridina davidi: a new model organism for crustacean biology'
+
+### Publications
+
+**Kelleher S.,** Guillera-Arroita G., Elith J., Briscoe N. Twenty years of dynamic occupancy models: a review of applications and look to the future. 2024. *Ecography.* In review, preprint.
+
+### Teaching
+
+**Applied Ecology** *Demonstrator Spring 2022 & 2023*
+
+**Environmental Risk Assessment** *Demonstrator Fall 2022 & Winter 2022*
+
+**Spatial Tools** *Demonstrator Fall 2023 & 2024*
+
+### Training
+
+**Leadership Victoria** *2024*
+
+**First Aid Training** *2024*
+
+**Melbourne Centre for Data Science Doctoral Academy** *2022*
+
+### Grants
+
+**University of Melbourne School of Agriculture, Food, and Ecosystem Science Travel Grant** *2024*
+
+**University of Melbourne Faculty of Science Travel Grant** *2023*
+
+**Australian Research Training Program Fellowship** *2021*
+
+**University of Melbourne** **Rowden White Scholarship** *2021*
+
+### Awards
+
+**School of Agriculture, Food, and Ecosystem Science Community Award** *2023*
+
+### Professional history
+
+**Data analyst & R developer** *Western EcoSystems Technology 2019-2020*
+
+**Acoustic data analyst** *Colorado State University Sound & Light Lab, 2018-2019*
+
+### Service
+
+**Graduate Researchers in Agriculture, Food, and Ecosystem Science** *Founder and Chair, 2023-2024*
+
+**School of Agriculture, Food, and Ecosystem Science Graduate Research Conference Chair** *2023*
+
+**School of Agriculture, Food, and Ecosystem Science Graduate Research Conference Chair** *2023*
+
+**Coding Club Committee Member** *2021-Present*

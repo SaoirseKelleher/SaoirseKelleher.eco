@@ -1,3 +1,1 @@
-![](images/Zoom picture.jpg){width="319"}
-
-Personal website (test)
+![](images/Mountains.jpg){fig-align="center"}
