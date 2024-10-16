@@ -20,6 +20,10 @@ website:
       - icon: envelope
         href: saoirse.kelleher@student.unimelb.edu.au
         aria-label: Email
+  page-footer:
+    background: light
+    left: Copyright Saoirse Kelleher 2024
+    right: This website built with [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:
