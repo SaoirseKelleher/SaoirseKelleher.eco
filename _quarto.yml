@@ -9,15 +9,17 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - href: About.qmd
         text: About
       - Research.qmd
-      - CV.qmd
+      - href: CV.qmd
+        text: CV
     right:
       - icon: github
         href: https://github.com/SaoirseKelleher
         aria-label: GitHub
+      - icon: envelope
+        href: saoirse.kelleher@student.unimelb.edu.au
+        aria-label: Email
 
 format:
   html:

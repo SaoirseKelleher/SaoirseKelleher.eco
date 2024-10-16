@@ -1,71 +1,106 @@
 ---
-title: "Curriculum Vitae"
+toc: true
+toc-location: left
 ---
 
-### Summary
+#### Summary
 
-Saoirse Kelleher is a PhD Candidate at the University of Melbourne with interests in quantitative ecology and biodiversity conservation.
+------------------------------------------------------------------------
 
-### Education
+Saoirse Kelleher is a PhD candidate and experienced ecological data analyst with interests in quantitative methods for understanding patterns of species occurrence across space and time. She is also interested in developing more accessible tools for ecological modelling and is committed to the open science movement in ecology.
 
-**University of Melbourne** *2021-Present*
+#### Education
 
--   PhD thesis titled 'Improving practical applications of dynamic occupancy models'
+------------------------------------------------------------------------
 
-**Colorado State University** *2015-2019*
+**University of Melbourne \| Phd Candidate \| 2021-Present**
 
--   B.S. in Fish, Wildlife, and Conservation Biology
+Thesis on *'Improving practical applications of dynamic occupancy models'*
 
--   B.S. in Biological Science
+**Colorado State University \| Bachelor of Science \| 2015-2019**
 
--   Honours thesis titled 'Neocaridina davidi: a new model organism for crustacean biology'
+Dual degrees in Fish, Wildlife, & Conservation Biology and Biological Science
 
-### Publications
+#### Professional history
 
-**Kelleher S.,** Guillera-Arroita G., Elith J., Briscoe N. Twenty years of dynamic occupancy models: a review of applications and look to the future. 2024. *Ecography.* In review, preprint.
+------------------------------------------------------------------------
 
-### Teaching
+**Stanford University Hadly Lab \| Research assistant \| 2020**
 
-**Applied Ecology** *Demonstrator Spring 2022 & 2023*
+Analysed pattens of bat activity using bioacoustic monitoring data from Stanford's Jasper Ridge Biological Preserve
 
-**Environmental Risk Assessment** *Demonstrator Fall 2022 & Winter 2022*
+**Western EcoSystems Technology \| Data analyst & R developer \| 2019-2020**
 
-**Spatial Tools** *Demonstrator Fall 2023 & 2024*
+Worked in collaborative development environment to build R packages for analysis of bat & bird activity at wind energy facilities.
 
-### Training
+**Colorado State University Sound and Ecology Team \| Acoustic data analyst \| 2018-2019**
 
-**Leadership Victoria** *2024*
+Manually processed acoustic monitoring data for the U.S. National Park Service to support sound management plans.
 
-**First Aid Training** *2024*
+#### Publications
 
-**Melbourne Centre for Data Science Doctoral Academy** *2022*
+------------------------------------------------------------------------
 
-### Grants
+1.  **Kelleher S.,** Guillera-Arroita G., Elith J., Briscoe N. Twenty years of dynamic occupancy models: a review of applications and look to the future. 2024. In review, preprint on EcoEvoRxiv.
 
-**University of Melbourne School of Agriculture, Food, and Ecosystem Science Travel Grant** *2024*
+#### Teaching
 
-**University of Melbourne Faculty of Science Travel Grant** *2023*
+------------------------------------------------------------------------
 
-**Australian Research Training Program Fellowship** *2021*
+**Applied Ecology \| Demonstrator \| Spring 2022 & 2023**
 
-**University of Melbourne** **Rowden White Scholarship** *2021*
+Re-wrote and lead data analysis practicals.
 
-### Awards
+**Environmental Risk Assessment** \| **Demonstrator \| Fall 2022 & Winter 2022**
+
+**Spatial Tools \| Demonstrator \| Fall 2023 & 2024**
+
+#### Training
+
+------------------------------------------------------------------------
+
+**Leadership training \| Leadership Victoria** \| **2024**
+
+**First Aid Training \| University of Melbourne \| 2024**
+
+**Melbourne Centre for Data Science Doctoral Academy \|** **2022**
+
+#### Grants
+
+------------------------------------------------------------------------
+
+**University of Melbourne School of Agriculture, Food, and Ecosystem Science Travel Grant \| \$2500 \| 2024**
+
+**University of Melbourne Faculty of Science Travel Grant** \| **\$2000** **\| 2023**
+
+**Australian Research Training Program Fellowship** \| **Full funding for 3.5 years** \| **2021**
+
+**University of Melbourne** **Rowden White Scholarship** \| **\$6000 \| 2021**
+
+#### Awards
+
+------------------------------------------------------------------------
 
 **School of Agriculture, Food, and Ecosystem Science Community Award** *2023*
 
-### Professional history
+Awarded for service to the Graduate Researcher community.
 
-**Data analyst & R developer** *Western EcoSystems Technology 2019-2020*
+#### Service
 
-**Acoustic data analyst** *Colorado State University Sound & Light Lab, 2018-2019*
+------------------------------------------------------------------------
 
-### Service
+**Graduate Researchers in Agriculture, Food, and Ecosystem Science \| Founder and Chair \| 2023-2024**
 
-**Graduate Researchers in Agriculture, Food, and Ecosystem Science** *Founder and Chair, 2023-2024*
+Founded graduate research organisation for the University of Melbourne's new School of Agriculture, Food, and Ecosystem Sciences.
 
-**School of Agriculture, Food, and Ecosystem Science Graduate Research Conference Chair** *2023*
+**School of Agriculture, Food, and Ecosystem Science Graduate Research Conference \| Chair** \| **2023**
 
-**School of Agriculture, Food, and Ecosystem Science Graduate Research Conference Chair** *2023*
+Coordinated planning for inaugural conference.
 
-**Coding Club Committee Member** *2021-Present*
+**School of Agriculture, Food, and Ecosystem Science Graduate Research Conference \| Co-chair \| 2023**
+
+Coordinated planning for 2-day conference with 100+ staff and student attendees.
+
+**Coding Club \| Committee Member \| 2021-Present**
+
+Coordinated talks in quantitative ecology; personally developed 20+ sessions on a range of topics.

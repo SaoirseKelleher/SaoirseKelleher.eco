@@ -1,1 +1,33 @@
-![](images/Mountains.jpg){fig-align="center"}
+---
+about:
+  id: profile-header
+  template: jolla
+  image: images/ProfilePicture.jpg
+  links:
+    - icon: email
+      text: Email
+      href: saoirse.kelleher@student.unimelb.edu.au
+    - icon: github
+      text: Github
+      href: https://github.com/SaoirseKelleher
+
+toc: false
+---
+
+::: {#profile-header}
+I am currently a PhD candidate in the Quantitative and Applied Ecology Group at the University of Melbourne. My research interests revolve around improving methods for describing field ecological data, with emphasis on supporting applied ecologists in fitting models for their study systems.
+:::
+
+### Research interests
+
+#### Occupancy models
+
+My PhD research is centred on methods for building occupancy models, with emphasis on covariate selection and complexity in multi-season models for describing patterns of species occurrence across space and time.
+
+#### Conservation technology
+
+Increasingly popular technologies, including camera traps and bioacoustic monitors, have introduced new and interesting data types for ecological research. I am interested in methods for analysing this data to explore patterns of species activity across scales.
+
+#### Open Science
+
+I am committed to open science principles and improving transparency in Ecological research.
