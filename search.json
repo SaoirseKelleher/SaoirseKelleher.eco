@@ -2,22 +2,15 @@
   {
     "objectID": "CV.html",
     "href": "CV.html",
-    "title": "CV",
+    "title": "Saoirse Kelleher",
     "section": "",
-    "text": "Curriculum Vitae"
-  },
-  {
-    "objectID": "Research.html",
-    "href": "Research.html",
-    "title": "Research",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Summary\n\nSaoirse Kelleher is a PhD candidate and experienced ecological data analyst with interests in quantitative methods for understanding patterns of species occurrence across space and time. She is also interested in developing more accessible tools for ecological modelling and is committed to the open science movement in ecology.\n\n\nEducation\n\nUniversity of Melbourne | Phd Candidate | 2021-Present\nThesis on ‘Improving practical applications of dynamic occupancy models’\nColorado State University | Bachelor of Science | 2015-2019\nDual degrees in Fish, Wildlife, & Conservation Biology and Biological Science\n\n\nProfessional history\n\nStanford University Hadly Lab | Research assistant | 2020\nAnalysed pattens of bat activity using bioacoustic monitoring data from Stanford’s Jasper Ridge Biological Preserve\nWestern EcoSystems Technology | Data analyst & R developer | 2019-2020\nWorked in collaborative development environment to build R packages for analysis of bat & bird activity at wind energy facilities.\nColorado State University Sound and Ecology Team | Acoustic data analyst | 2018-2019\nManually processed acoustic monitoring data for the U.S. National Park Service to support sound management plans.\n\n\nPublications\n\n\nKelleher S., Guillera-Arroita G., Elith J., Briscoe N. Twenty years of dynamic occupancy models: a review of applications and look to the future. 2024. In review, preprint on EcoEvoRxiv.\n\n\n\nTeaching\n\nApplied Ecology | Demonstrator | Spring 2022 & 2023\nRe-wrote and lead data analysis practicals.\nEnvironmental Risk Assessment | Demonstrator | Fall 2022 & Winter 2022\nSpatial Tools | Demonstrator | Fall 2023 & 2024\n\n\nTraining\n\nLeadership training | Leadership Victoria | 2024\nFirst Aid Training | University of Melbourne | 2024\nMelbourne Centre for Data Science Doctoral Academy | 2022\n\n\nGrants\n\nUniversity of Melbourne School of Agriculture, Food, and Ecosystem Science Travel Grant | $2500 | 2024\nUniversity of Melbourne Faculty of Science Travel Grant | $2000 | 2023\nAustralian Research Training Program Fellowship | Full funding for 3.5 years | 2021\nUniversity of Melbourne Rowden White Scholarship | $6000 | 2021\n\n\nAwards\n\nSchool of Agriculture, Food, and Ecosystem Science Community Award 2023\nAwarded for service to the Graduate Researcher community.\n\n\nService\n\nGraduate Researchers in Agriculture, Food, and Ecosystem Science | Founder and Chair | 2023-2024\nFounded graduate research organisation for the University of Melbourne’s new School of Agriculture, Food, and Ecosystem Sciences.\nSchool of Agriculture, Food, and Ecosystem Science Graduate Research Conference | Chair | 2023\nCoordinated planning for inaugural conference.\nSchool of Agriculture, Food, and Ecosystem Science Graduate Research Conference | Co-chair | 2023\nCoordinated planning for 2-day conference with 100+ staff and student attendees.\nCoding Club | Committee Member | 2021-Present\nCoordinated talks in quantitative ecology; personally developed 20+ sessions on a range of topics."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Saoirse Kelleher",
     "section": "",
-    "text": "Personal website (test)"
+    "text": "I am currently a PhD candidate in the Quantitative and Applied Ecology Group at the University of Melbourne. My research interests revolve around improving methods for describing field ecological data, with emphasis on supporting applied ecologists in fitting models for their study systems.\n \n  \n   \n  \n    \n     Email\n  \n  \n    \n     Github\n  \n\n\n\n\nResearch interests\n\nOccupancy models\nMy PhD research is centred on methods for building occupancy models, with emphasis on covariate selection and complexity in multi-season models for describing patterns of species occurrence across space and time.\n\n\nConservation technology\nIncreasingly popular technologies, including camera traps and bioacoustic monitors, have introduced new and interesting data types for ecological research. I am interested in methods for analysing this data to explore patterns of species activity across scales.\n\n\nOpen Science\nI am committed to open science principles and improving transparency in Ecological research."
   }
 ]
